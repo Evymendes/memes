@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.button {
+  color: #FFF;
+  background-color: #42a219;
+  height: 3rem;
+  border: none;
+}
+
+#imagens {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+img {
+  width: 50%;
+}
+
+.imgZap {
+  width: 3rem;
+}
